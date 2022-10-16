@@ -3,8 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import img from './images/img.png';
 import img_1 from './images/img_1.png';
 import img_2 from './images/img_2.png';
-import pka from './CPT/IT_LR3_Torchinskii_IDM-22-02';
-import docx from './CPT/IT_LR3_Torchinskii_IDM-22-02.docx';
+import pka from './CPT/IT_LR3_Torchinskii_IDM-22-01.pka';
+import docx from './CPT/IT_LR3_Torchinskii_IDM-22-01.docx';
 
 function App() {
   return (
@@ -82,7 +82,7 @@ function App() {
                       </Table>
                   </div>
               </div>
-              <div id="lab3" style={{ borderBottom: '4px solid black' }}>
+              <div id="lab3">
                   <div style={{ maxWidth: 800, margin: '0 auto' }}>
                       <h2 style={{ marginTop: '40px' }}>Лабораторная работа №3</h2>
                       <img style={{ width: 500, marginTop: '20px' }} src={img_2} alt="team" />
@@ -98,11 +98,11 @@ function App() {
                           </tr>
                           <tr>
                               <td>Сценарий CPT</td>
-                              <td><a href={pka}>CPT/IT_LR3_Torchinskii_IDM-22-02.pka</a></td>
+                              <td><a href={pka}>CPT/IT_LR3_Torchinskii_IDM-22-01.pka</a></td>
                           </tr>
                           <tr>
                               <td>Отчет</td>
-                              <td><a href={docx}>CPT/IT_LR3_Torchinskii_IDM-22-02.docx</a></td>
+                              <td><a href={docx}>CPT/IT_LR3_Torchinskii_IDM-22-01.docx</a></td>
                           </tr>
                           <tr>
                               <td colSpan={2} align="center">Описание</td>

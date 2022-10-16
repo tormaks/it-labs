@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cce9cf2-9a29-4cee-b693-cff3262acef4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
       <recent name="$PROJECT_DIR$/src/CPT" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665950679978</updated>
       <workItem from="1665950681885" duration="1519000" />
-      <workItem from="1665952211063" duration="4491000" />
+      <workItem from="1665952211063" duration="4858000" />
     </task>
     <servers />
   </component>
