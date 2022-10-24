@@ -88,8 +88,9 @@
    + Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.
 
 ### Работа над проектом ведется в команде.
-1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/DaryaProsyakova/IT_project)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/DaryaProsyakova/IT_project)
+1. Репозиторий проекта доступен по ссылке: [leonardo-landing-page](https://github.com/tormaks/leonardo-landing-page)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://tormaks.github.io/leonardo-landing-page/)
+3. Роль в проекте: Прикладное программирование ПП
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
