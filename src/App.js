@@ -66,11 +66,11 @@ function App() {
                           </tr>
                           <tr>
                               <td>Исходный код</td>
-                              <td><a target="_blank" href="https://github.com/DaryaProsyakova/IT_project">/DaryaProsyakova/IT_project</a></td>
+                              <td><a target="_blank" href="https://github.com/tormaks/leonardo-landing-page">/tormaks/leonardo-landing-page</a></td>
                           </tr>
                           <tr>
-                              <td>landing page</td>
-                              <td><a target="_blank" href="https://github.com/DaryaProsyakova/IT_project">/DaryaProsyakova/IT_project</a></td>
+                              <td>Landing page</td>
+                              <td><a target="_blank" href="https://tormaks.github.io/leonardo-landing-page/">/tormaks/Landing-page</a></td>
                           </tr>
                           <tr>
                               <td colSpan={2} align="center">Описание</td>
