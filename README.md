@@ -96,7 +96,7 @@
 1. [Отчет](src/CPT/IT_LR3_Torchinskii_IDM-22-01.docx)
 2. [Сценарий Cisco Packet Tracer](src/CPT/IT_LR3_Torchinskii_IDM-22-01.pka)
 
-## ✅ Экзаменационные билет №22
+## ✅ Экзаменационный билет №22
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №22](https://github.com/stankin/inet-2022/wiki/exam22)
