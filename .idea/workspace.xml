@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cce9cf2-9a29-4cee-b693-cff3262acef4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CPT/IT_LR3_Torchinskii_IDM-22-01.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
       <updated>1665950679978</updated>
       <workItem from="1665950681885" duration="1519000" />
       <workItem from="1665952211063" duration="4858000" />
+      <workItem from="1671614310002" duration="362000" />
     </task>
     <servers />
   </component>
