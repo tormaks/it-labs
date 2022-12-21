@@ -17,7 +17,7 @@
 
 В рамках индивидуального проекта было разработано приложение, которое включает в себя официальную информацию [Marvel Developer Portal](https://developer.marvel.com/) (Marvel Public API) о персонажах и комиксах вселенной MARVEL.
 1. Репозиторий индивидуального проекта доступен по ссылке: [marvel-react-app](https://github.com/tormaks/marvel-react-app)
-2. Веб-страница с описанием проекта доступна по ссылке: [Demonstration stand](https://tormaks.github.io/marvel-react-app/)
+2. Демонстрационный стенд индивидуального проекта доступен по ссылке: [Demonstration stand](https://tormaks.github.io/marvel-react-app/)
 
 ___
 
