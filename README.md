@@ -106,4 +106,4 @@ ___
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №22](https://github.com/stankin/inet-2022/wiki/exam22) </br>
-Был дан ответ на второй вопрос в билете: [Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam22/_compare/0acd67f814ac6c352a23b3eedf1e09be92b1ccbd...826d7d24e05564c14f3ffe6d07ee902526b91ad2).
+Был дан ответ на второй вопрос в билете: [Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam22/_compare/826d7d24e05564c14f3ffe6d07ee902526b91ad2...a0d6418875e64566d0c705f444c2414bb3e5eeec).
