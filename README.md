@@ -72,17 +72,17 @@ ___
    + фреймворк от компании Apple Core Data, который позволяет взаимодействовать с базой данных;
    + текстовый формат обмена данными JSON;
    + шаблон проектирования архитектуры приложения Model-View-ViewModel-closure;
-   + #SERV
-      * pod 'CodableAlamofire'
-      * pod 'Kingfisher'
-      * pod 'SVGKit', :git => 'https://github.com/SVGKit/SVGKit.git', :branch => '3.x'
-   + #UI
-      * pod 'SPAlert'
-      * pod 'ViewAnimator'
-      * pod 'MultiSlider'
-      * pod 'YandexMapsMobile', '4.1.0-full'
-      * pod 'Cosmos'
-      * pod 'netfox'
+   + #SERV:
+      * pod 'CodableAlamofire';
+      * pod 'Kingfisher';
+      * pod 'SVGKit', :git => 'https://github.com/SVGKit/SVGKit.git', :branch => '3.x'.
+   + #UI:
+      * pod 'SPAlert';
+      * pod 'ViewAnimator';
+      * pod 'MultiSlider';
+      * pod 'YandexMapsMobile', '4.1.0-full';
+      * pod 'Cosmos';
+      * pod 'netfox';
       * pod 'JivoSDK'.
 * Средства разработки landing-page: 
    + язык гипертекстовой разметки HTML;
