@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/it-labs/static/css/main.b126ec2c.css",
-    "main.js": "/it-labs/static/js/main.90b970d6.js",
+    "main.js": "/it-labs/static/js/main.ce879989.js",
+    "static/media/IT_LR3_Torchinskii_IDM-22-01.pdf": "/it-labs/static/media/IT_LR3_Torchinskii_IDM-22-01.48270594b1ea118d393d.pdf",
     "static/media/IT_LR3_Torchinskii_IDM-22-01.pka": "/it-labs/static/media/IT_LR3_Torchinskii_IDM-22-01.759f0bf232c700651517.pka",
-    "static/media/IT_LR3_Torchinskii_IDM-22-01.docx": "/it-labs/static/media/IT_LR3_Torchinskii_IDM-22-01.160558b678f17698f825.docx",
     "static/media/img_1.png": "/it-labs/static/media/img_1.6b28b7032d9201838e84.png",
     "static/media/img.png": "/it-labs/static/media/img.587933e275725899116f.png",
     "static/media/img_2.png": "/it-labs/static/media/img_2.3795d2903021a0d2de2c.png",
     "index.html": "/it-labs/index.html",
     "main.b126ec2c.css.map": "/it-labs/static/css/main.b126ec2c.css.map",
-    "main.90b970d6.js.map": "/it-labs/static/js/main.90b970d6.js.map"
+    "main.ce879989.js.map": "/it-labs/static/js/main.ce879989.js.map"
   },
   "entrypoints": [
     "static/css/main.b126ec2c.css",
-    "static/js/main.90b970d6.js"
+    "static/js/main.ce879989.js"
   ]
 }
